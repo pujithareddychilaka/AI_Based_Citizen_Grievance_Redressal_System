@@ -164,4 +164,4 @@ This project is open source. Add a license file to specify usage terms.
 ## 👨‍💻 Author
 
 **pujitha Reddy Chilaka**
-- GitHub: [@pujitha Reddy Chilaka](https://github.com/subbareddychilaka)
+- GitHub: [@pujitha Reddy Chilaka](https://github.com/pujithareddychilaka)
